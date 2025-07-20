@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Victoria Memorial",
+    "location": "Maidan, Kolkata",
+    "website": "https://maps.app.goo.gl/z7awuA7fdFYnoEau7",
+    "desc": "Iconic white marble monument and museum, major tourist attraction."
+  },
+  {
+    "name": "Nicco Park",
+    "location": "Salt Lake, Kolkata",
+    "website": "https://maps.app.goo.gl/5jKLqdyPKeY3U1BM7",
+    "desc": "Popular amusement park known as the Disneyland of West Bengal."
+  },
+  {
+    "name": "Science City",
+    "location": "EM Bypass, Kolkata",
+    "website": "https://maps.app.goo.gl/LrEj6yeHLzWs6o678",
+    "desc": "Interactive science museum and park, fun for students and families."
+  },
+  {
+    "name": "Eco Park",
+    "location": "New Town, Kolkata",
+    "website": "https://maps.app.goo.gl/dJkrr9MF4aqHeAt79",
+    "desc": "Huge urban park with lake, gardens, recreation areas."
+  },
+  {
+    "name": "Indian Museum",
+    "location": "Jawaharlal Nehru Road, Kolkata",
+    "website": "https://maps.app.goo.gl/RuULd2fKyFeqPSsi6",
+    "desc": "One of India’s oldest museums with rare collections of antiques and art."
+  }, 
+  {
+    "name": "Dakshineswar Kali Temple",
+    "location": "Dakshineswar, Kolkata",
+    "website": "https://maps.app.goo.gl/MJZpu45sev3GX61F9",
+    "desc": "Famous riverside temple dedicated to Goddess Kali"
+  },  
+  {
+    "name": "Belur Math",
+    "location": "Belur, Howrah",
+    "website": "https://maps.app.goo.gl/s68utH5aU18WNC2EA",
+    "desc": "Headquarters of Ramakrishna Mission, peaceful spiritual vibe on the Ganges."
+  },
+  {
+    "name": "Birla Planetarium",
+    "location": "Maidan, Kolkata",
+    "website": "https://maps.app.goo.gl/KB7objWKaQXRtKu27",
+    "desc": "Space shows and astronomy exhibits — India’s largest planetarium."
+  },
+  {
+    "name": "Alipore Zoological Gardens",
+    "location": "Alipore, Kolkata",
+    "website": "https://maps.app.goo.gl/URRTvbPrHeEdXNMt7",
+    "desc": "One of India’s oldest zoos, great for family picnics and animal lovers."
+  },
+  {
+    "name": "Rabindra Sarobar",
+    "location": "Southern Avenue, Kolkata",
+    "website": "https://maps.app.goo.gl/wkBrY6LFrYPNG5J59",
+    "desc": "Beautiful urban lake with jogging paths, peaceful spot for evenings."
+  }
+
+]

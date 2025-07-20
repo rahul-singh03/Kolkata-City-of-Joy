@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Techno India University",
+    "location": "Salt Lake, Kolkata",
+    "website": "https://www.technoindiauniversity.ac.in",
+    "desc": "Private university known for Engineering, Management & Technical courses."
+  },
+  {
+    "name": "Institute of Engineering and Management (IEM)",
+    "location": "Sector V, Salt Lake, Kolkata",
+    "website": "https://iem.edu.in",
+    "desc": "Popular private institute for Engineering, Management and Computer Science."
+  },
+  {
+    "name": "Jadavpur University",
+    "location": "Jadavpur, Kolkata",
+    "website": "http://www.jaduniv.edu.in",
+    "desc": "Top-ranked public university for Engineering, Arts & Science streams."
+  },
+  {
+    "name": "University of Calcutta",
+    "location": "College Street, Kolkata",
+    "website": "http://www.caluniv.ac.in",
+    "desc": "One of India's oldest universities offering Arts, Science & Law courses."
+  },
+  {
+    "name": "Heritage Institute of Technology",
+    "location": "Anandapur, Kolkata",
+    "website": "https://heritageit.edu",
+    "desc": "Renowned private engineering college under Heritage Group of Institutions."
+  },
+    {
+    "name": "St. Xavier's College",
+    "location": "Park Street, Kolkata",
+    "website": "https://www.sxccal.edu",
+    "desc": "Prestigious autonomous college known for Arts, Science, Commerce & Management."
+  },
+  {
+    "name": "Presidency University",
+    "location": "College Street, Kolkata",
+    "website": "https://www.presiuniv.ac.in",
+    "desc": "Historic institution, now a university, popular for Arts & Science courses."
+  },
+  {
+    "name": "Amity University Kolkata",
+    "location": "New Town, Kolkata",
+    "website": "https://www.amity.edu/kolkata",
+    "desc": "Private university with wide range of modern courses and good campus."
+  },
+  {
+    "name": "Maulana Abul Kalam Azad University of Technology (MAKAUT)",
+    "location": "Haringhata, Kolkata",
+    "website": "https://makautwb.ac.in",
+    "desc": "State technical university affiliated with many colleges in West Bengal."
+  },
+  {
+    "name": "Rabindra Bharati University",
+    "location": "Emerald Bower Campus, Kolkata",
+    "website": "https://rbu.ac.in",
+    "desc": "Specializes in Arts, Fine Arts, Performing Arts and Social Sciences."
+  }
+] 

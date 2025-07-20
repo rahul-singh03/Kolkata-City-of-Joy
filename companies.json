@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Tata Consultancy Services (TCS)",
+    "location": "Salt Lake Sector V",
+    "website": "https://www.tcs.com",
+    "desc": "One of India's largest IT companies with a major office in Kolkata."
+  },
+  {
+    "name": "Wipro",
+    "location": "Salt Lake Sector V",
+    "website": "https://www.wipro.com",
+    "desc": "Leading global IT, consulting and business process services company."
+  },
+  {
+    "name": "Cognizant",
+    "location": "New Town, Rajarhat",
+    "website": "https://www.cognizant.com",
+    "desc": "Major IT services and consulting company with big presence in Kolkata."
+  },
+  {
+    "name": "Tech Mahindra",
+    "location": "Salt Lake Sector V",
+    "website": "https://www.techmahindra.com",
+    "desc": "Well-known IT and business process outsourcing company."
+  },
+  {
+    "name": "Capgemini",
+    "location": "New Town, Rajarhat",
+    "website": "https://www.capgemini.com",
+    "desc": "Global leader in consulting, technology services and digital transformation."
+  },
+  {
+    "name": "IBM India",
+    "location": "Salt Lake Sector V, Kolkata",
+    "website": "https://www.ibm.com/in-en",
+    "desc": "Global tech company with IT services, cloud, and consulting operations in Kolkata."
+  },
+  {
+    "name": "Infosys",
+    "location": "Rajarhat, Kolkata",
+    "website": "https://www.infosys.com",
+    "desc": "One of India's top IT companies with a new campus coming up in Kolkata."
+  },
+  {
+    "name": "Mindtree",
+    "location": "Salt Lake Sector V, Kolkata",
+    "website": "https://www.mindtree.com",
+    "desc": "Leading digital transformation and technology consulting firm."
+  },
+  {
+    "name": "PWC India",
+    "location": "Salt Lake Sector V, Kolkata",
+    "website": "https://www.pwc.in",
+    "desc": "One of the Big Four consulting firms providing audit, tax, and consulting services."
+  },
+  {
+    "name": "Ernst & Young (EY)",
+    "location": "Salt Lake Sector V, Kolkata",
+    "website": "https://www.ey.com/en_in",
+    "desc": "Another Big Four consulting firm with a strong advisory and IT consulting wing."
+  }
+]

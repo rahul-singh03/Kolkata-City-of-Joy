@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Howrah Junction",
+    "location": "Howrah, Kolkata",
+    "website": "https://maps.app.goo.gl/SReYC1ZUwNRZD8sE9",
+    "desc": "One of India's busiest railway stations, iconic for its historic architecture."
+  },
+  {
+    "name": "Sealdah Station",
+    "location": "Sealdah, Kolkata",
+    "website": "https://maps.app.goo.gl/W9Msjz9q4Gz8BXzd9",
+    "desc": "Major suburban and long-distance railway station in Kolkata."
+  },
+  {
+    "name": "Kolkata Chitpur Terminal",
+    "location": "Chitpur, Kolkata",
+    "website": "https://maps.app.goo.gl/ZPTazn6o8nChqZfc6",
+    "desc": "Known as Kolkata Railway Station, handles long-distance express trains."
+  },
+  {
+    "name": "Santragachi Junction",
+    "location": "Santragachi, Howrah",
+    "website": "https://maps.app.goo.gl/wGEJenarTUFStpL39",
+    "desc": "Another important junction station for South Eastern Railway zone."
+  },
+  {
+    "name": "Shalimar Station",
+    "location": "Shalimar, Howrah",
+    "website": "https://maps.app.goo.gl/gUSNKEMfzE77DRHWA",
+    "desc": "Handles selected express trains, quieter alternative to Howrah."
+  },
+  {
+    "name": "Dum Dum Junction",
+    "location": "Dum Dum, Kolkata",
+    "website": "https://maps.app.goo.gl/sXfn3cyYmoU6vdBh9",
+    "desc": "Key junction connecting suburban trains and Kolkata Metro."
+  },
+  {
+    "name": "Ballygunge Junction",
+    "location": "Ballygunge, Kolkata",
+    "website": "https://maps.app.goo.gl/qokUUiQXmfXN43LF6",
+    "desc": "Important suburban railway station in South Kolkata."
+  },
+  {
+    "name": "Bidhan Nagar Road",
+    "location": "Salt Lake, Kolkata",
+    "website": "https://maps.app.goo.gl/cf5zfz9YLo8ys7DT6",
+    "desc": "Serves Salt Lake area, part of Kolkata suburban network."
+  },
+  {
+    "name": "Princep Ghat Station",
+    "location": "Princep Ghat, Kolkata",
+    "website": "https://maps.app.goo.gl/GPPNHYUt7EeFCrXy8",
+    "desc": "Scenic station near Hooghly riverfront, popular for local train rides."
+  },
+  {
+    "name": "Park Circus Station",
+    "location": "Park Circus, Kolkata",
+    "website": "https://maps.app.goo.gl/za18rBixUBm2pdhGA",
+    "desc": "Busy local station connecting South & Central Kolkata."
+  }
+]

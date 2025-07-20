@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Apollo Multispeciality Hospitals",
+    "location": "Salt Lake, Kolkata",
+    "website": "https://maps.app.goo.gl/7JLgTs4KG4Sj1iyS7",
+    "desc": "Multi-speciality hospital with advanced medical facilities and patient care."
+  },
+  {
+    "name": "Fortis Hospital",
+    "location": "Anandapur, Kolkata",
+    "website": "https://maps.app.goo.gl/ycZQpMad6evajjXd6",
+    "desc": "Renowned for cardiac care, surgeries and multi-speciality treatments."
+  },
+  {
+    "name": "AMRI Hospitals",
+    "location": "Dhakuria, Kolkata",
+    "website": "https://maps.app.goo.gl/UyzbAZRNsBWKZjVL8",
+    "desc": "Popular hospital chain offering wide range of multi-speciality services."
+  },
+  {
+    "name": "Ruby General Hospital",
+    "location": "Kasba, Kolkata",
+    "website": "https://maps.app.goo.gl/AqoKZbywqnNDR1RHA",
+    "desc": "Known for emergency services, critical care and advanced diagnostics."
+  },
+  {
+    "name": "Medica Superspecialty Hospital",
+    "location": "Mukundapur, Kolkata",
+    "website": "https://maps.app.goo.gl/Cgp3MnfrdMbfaMH56",
+    "desc": "Offers advanced superspecialty treatments and state-of-the-art surgeries."
+  },
+  {
+    "name": "Narayana Superspeciality Hospital",
+    "location": "Howrah, Kolkata",
+    "website": "https://maps.app.goo.gl/H4mDYpRzd2ojPApk7",
+    "desc": "Part of Narayana Health Group, trusted for cardiac and multi-speciality care."
+  },
+  {
+    "name": "Kothari Medical Centre",
+    "location": "Alipore, Kolkata",
+    "website": "https://maps.app.goo.gl/qHbZcAC2dmkGVnHE6",
+    "desc": "Well-known multi-speciality hospital with modern facilities and services."
+  },
+  {
+    "name": "Peerless Hospital",
+    "location": "Panchasayar, Kolkata",
+    "website": "https://maps.app.goo.gl/zM4R97qNq3N35qRCA",
+    "desc": "Popular for affordable and quality healthcare across specialities."
+  },
+  {
+    "name": "BM Birla Heart Research Centre",
+    "location": "Alipore, Kolkata",
+    "website": "https://maps.app.goo.gl/GyuSfZod77duiVYm7",
+    "desc": "Dedicated cardiac hospital providing advanced heart care treatments."
+  },
+  {
+    "name": "Institute of Neurosciences Kolkata",
+    "location": "Park Circus, Kolkata",
+    "website": "https://maps.app.goo.gl/MKb2j9qtEahHHrWS6",
+    "desc": "Specialised institute focused on advanced brain and spine care."
+  }
+]
